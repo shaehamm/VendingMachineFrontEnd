@@ -1,0 +1,41 @@
+h1, h2, h3, h4 {
+    text-align: center;
+ }
+
+ h1 {
+    padding-top: 10px;
+ }
+
+#vendItems {
+    background-color: lightgray;
+}
+
+button[type=button] {
+    background-color: white;
+    color: rgb(92, 92, 92);
+    padding: 4px 8px;
+    border: none;
+    margin: 30x 30px;
+}
+
+button[type=button]:hover {
+    background-color: rgb(175, 175, 175);
+    color: white;
+    font-weight: bold;
+}
+
+body {
+    background-color: whitesmoke;
+    font-family: 'Poiret One', cursive;
+    color: #0d1f2d;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #6AAD9E;
+    color: #fef9ff;
+    height: 100px;
+    text-align: center;
+    padding: 30px 10px 20px 10px;
+}
